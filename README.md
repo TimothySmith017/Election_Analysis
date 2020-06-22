@@ -31,5 +31,21 @@ The analysis of the election show that:
   - Diana Degette, who received 73.8% of the vote and 272,892 votes.
   
 ## Challenge Overview
+The Challenge was to go back into the results.csv file and determine the following:
+
+ 1.) Get the amount of votes for each county
+ 2.) Make a list of the counties
+ 3.) Create a dictionary where the keys where the county names and the values were the # of votes
+ 4.) Calculate the % of votes won by each County
+ 5.) Determine the county that had the highest number of votes/vote percentage
+ 6.) Write this data to the analysis text file
+ 7.) Print this data as outputs to the Terminal
 
 ## Challenge Summary 
+
+The counties and their votes & voting percentages were:
+- Jefferson: 10.5% of the total turnout: 38,555 votes
+- Denver: 82.8% of the total turnout: 306,055 votes
+- Arapahoe: 6.7% of the total turnout: 11,606 votes
+
+The County that had the largest voter turnout was Denver
